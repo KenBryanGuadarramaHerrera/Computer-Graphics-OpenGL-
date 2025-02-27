@@ -1,0 +1,1 @@
+En esta practica se dibujo la casa pero ahora usando instancias de los cubos y piramides, tambien se tuvieron que crear los .frag y .vert para cada shader correspondiente a los distintos colores, por ultimo, se utilizaron transformaciones para armar la casa.
